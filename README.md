@@ -21,3 +21,4 @@ React.js
 JavaScript (ES6+)
 CSS3 (responsive design and animations)
 <img width="1909" height="918" alt="image" src="https://github.com/user-attachments/assets/314428b8-a3e6-45dd-a94a-30a7e4795ca6" />
+<img width="382" height="784" alt="image" src="https://github.com/user-attachments/assets/c952fee7-8ea6-4847-ab83-2875745ded60" />
