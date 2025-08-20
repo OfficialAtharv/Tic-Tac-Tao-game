@@ -1,4 +1,4 @@
-<img width="1909" height="918" alt="image" src="https://github.com/user-attachments/assets/24062800-10a1-44dc-8d88-0e0dd9a72417" /># Tic-Tac-Tao-game
+
 React Tic Tac Toe is a mobile-friendly, interactive, and visually appealing game built with React.js. It’s designed to provide a smooth gameplay experience while showcasing React component architecture, state management, and responsive design.
 📝 About
 This project was developed as part of a college assignment to demonstrate practical skills in React.js, including:
